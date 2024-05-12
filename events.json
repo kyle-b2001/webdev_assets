@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Afternoon Tea Party",
+        "description": "Enjoy a delightful afternoon tea at our shop. A selection of our finest cakes will be served.",
+    },
+    {
+        "id": 2,
+        "name": "Birthday Cake Party",
+        "description": "Celebrate your birthday with us! We'll provide a special birthday cake for your party.",
+    },
+    {
+        "id": 3,
+        "name": "Wedding Celebration",
+        "description": "Celebrate the most important day of your life with some incredible treats! We'll provide a special cake for your wedding.",
+    },
+    {
+        "id": 4,
+        "name": "Conference Meeting",
+        "description": "Work doesn't have to be all doom and gloom. Make it brighter with some tasty treats.",
+    }
+]
