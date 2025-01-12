@@ -3,36 +3,36 @@
         "name": "Max",
         "breed": "Beagle, Male",
         "description": "Max is 4 years old, and absolutely loves playtime! He is a very cuddly boy, who loves to get incredibly cozy. He's very friendly and will never say no to a good fuss. He is available for adoption right now, and can be collected as soon as possible.",
-        "image": "https://via.placeholder.com/150"
+        "image": "https://cdn.britannica.com/16/234216-050-C66F8665/beagle-hound-dog.jpg"
     },
     {
         "name": "Milo",
         "breed": "Boston Terrier, Male",
         "description": "Dog 2 Description",
-        "image": "https://via.placeholder.com/150"
+        "image": "https://cdn.britannica.com/75/8175-050-A9D609D6/Boston-terrier.jpg"
     },
     {
         "name": "John",
         "breed": "German Shepherd, Male",
         "description": "Dog 3 Description",
-        "image": "https://via.placeholder.com/150"
+        "image": "https://www.bellaandduke.com/wp-content/uploads/2024/10/A-guide-to-German-Shepherds-characteristics-personality-lifespan-and-more-featured-image.webp"
     },
     {
         "name": "Delilah",
         "breed": "Golden Retriever, Female",
         "description": "Dog 4 Description",
-        "image": "https://via.placeholder.com/150"
+        "image": "https://image.petmd.com/files/styles/863x625/public/2023-03/golden-retriever.jpg"
     },
     {
         "name": "Bessie",
         "breed": "Bernese Mountain Dog, Female",
         "description": "Dog 5 Description",
-        "image": "https://via.placeholder.com/150"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Standing_Bernese_Mountain_Dog_Female_%28cropped%29.jpg"
     },
     {
         "name": "Mochi",
         "breed": "Basset Hound, Female",
         "description": "Dog 6 Description",
-        "image": "https://via.placeholder.com/150"
+        "image": "https://cdn.britannica.com/87/236687-050-DD7F62CC/basset-hound-dog.jpg"
     }
 ]
