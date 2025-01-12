@@ -1,37 +1,37 @@
 [
     {
-        "name": "Edited from GitHub",
-        "breed": "Test Breed",
+        "name": "Max",
+        "breed": "Beagle, Male",
         "description": "Dog 1 Description",
         "image": "https://via.placeholder.com/150"
     },
     {
-        "name": "Dog 2",
-        "breed": "Test Breed",
+        "name": "Milo",
+        "breed": "Boston Terrier, Male",
         "description": "Dog 2 Description",
         "image": "https://via.placeholder.com/150"
     },
     {
-        "name": "Dog 3",
-        "breed": "Test Breed",
+        "name": "John",
+        "breed": "German Shepherd, Male",
         "description": "Dog 3 Description",
         "image": "https://via.placeholder.com/150"
     },
     {
-        "name": "Dog 4",
-        "breed": "Test Breed",
+        "name": "Delilah",
+        "breed": "Golden Retriever, Female",
         "description": "Dog 4 Description",
         "image": "https://via.placeholder.com/150"
     },
     {
-        "name": "Dog 5",
-        "breed": "Test Breed",
+        "name": "Bessie",
+        "breed": "Bernese Mountain Dog, Female",
         "description": "Dog 5 Description",
         "image": "https://via.placeholder.com/150"
     },
     {
-        "name": "Dog 6",
-        "breed": "Test Breed",
+        "name": "Mochi",
+        "breed": "Basset Hound, Female",
         "description": "Dog 6 Description",
         "image": "https://via.placeholder.com/150"
     }
