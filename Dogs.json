@@ -2,14 +2,14 @@
     {
         "name": "Max",
         "breed": "Beagle, Male",
-        "description": "Max is 4 years old, and absolutely loves playtime! He is a very cuddly boy, who loves to get incredibly cozy. He's very friendly and will never say no to a good fuss. He is available for adoption right now, and can be collected as soon as possible.",
+        "description": "Max is 4 years old, and absolutely loves playtime! He is a very cuddly boy, who loves to get incredibly cozy. He's very friendly and will never say no to a good fuss. He is a very shy dog, and is very quiet, so he will be perfect for a small family. He is available for adoption right now, and can be collected as soon as possible.",
         "image": "https://cdn.britannica.com/16/234216-050-C66F8665/beagle-hound-dog.jpg"
     },
     {
         "name": "Milo",
         "breed": "Boston Terrier, Male",
         "description": "Dog 2 Description",
-        "image": "https://cdn.britannica.com/75/8175-050-A9D609D6/Boston-terrier.jpg"
+        "image": "Milo is 6 years old, and is a very reserved dog."
     },
     {
         "name": "John",
