@@ -2,37 +2,37 @@
     {
         "name": "Max",
         "breed": "Beagle, Male",
-        "description": "Max is 4 years old, and absolutely loves playtime! He is a very cuddly boy, who loves to get incredibly cozy. He's very friendly and will never say no to a good fuss. He is a very shy dog, and is very quiet, so he will be perfect for a small family. He is available for adoption right now, and can be collected as soon as possible.",
+        "description": "Max is a 4-year-old Beagle who absolutely loves playtime! He is a very cuddly boy who enjoys getting incredibly cozy. Max is friendly and will never say no to a good fuss. Despite his playful nature, he is quite shy and quiet, making him perfect for a small family looking for a gentle companion. Max is available for adoption and ready to find his forever home.",
         "image": "https://cdn.britannica.com/16/234216-050-C66F8665/beagle-hound-dog.jpg"
     },
     {
         "name": "Milo",
         "breed": "Boston Terrier, Male",
-        "description": "Dog 2 Description",
-        "image": "Milo is 6 years old, and is a very reserved dog."
+        "description": "Milo is a 6-year-old Boston Terrier with a reserved and quiet demeanor. He is very well-behaved and friendly, enjoying playtime with his toys. Milo is gentle and great with children, making him an ideal addition to a family. He is available for adoption and eagerly awaits a loving home.",
+        "image": "https://example.com/milo.jpg"
     },
     {
         "name": "John",
         "breed": "German Shepherd, Male",
-        "description": "Dog 3 Description",
+        "description": "John is a 3-year-old German Shepherd with boundless energy. He loves to run around and play, making him a great companion for active families. John is friendly and enjoys playing with his toys. He is also gentle with children, making him a well-rounded family dog. John is available for adoption and ready to join a loving home.",
         "image": "https://www.bellaandduke.com/wp-content/uploads/2024/10/A-guide-to-German-Shepherds-characteristics-personality-lifespan-and-more-featured-image.webp"
     },
     {
         "name": "Delilah",
         "breed": "Golden Retriever, Female",
-        "description": "Dog 4 Description",
+        "description": "Delilah is a 5-year-old Golden Retriever with a heart of gold. She loves swimming and playing fetch, and her affectionate nature makes her a joy to be around. Delilah is great with kids and other pets, making her a perfect addition to any family. She is available for adoption and ready to bring joy to her new home.",
         "image": "https://image.petmd.com/files/styles/863x625/public/2023-03/golden-retriever.jpg"
     },
     {
         "name": "Bessie",
         "breed": "Bernese Mountain Dog, Female",
-        "description": "Dog 5 Description",
+        "description": "Bessie is a 7-year-old Bernese Mountain Dog with a calm and loyal demeanor. She enjoys long walks and lounging in the sun. Bessie is very protective of her family and will make a loyal companion. She is available for adoption and ready to find a loving home where she can relax and enjoy life.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Standing_Bernese_Mountain_Dog_Female_%28cropped%29.jpg"
     },
     {
         "name": "Mochi",
         "breed": "Basset Hound, Female",
-        "description": "Dog 6 Description",
+        "description": "Mochi is a 2-year-old Basset Hound full of curiosity. She loves sniffing around and exploring new places. Mochi is very friendly and gets along well with other dogs, making her a great companion for families with other pets. She is available for adoption and ready to embark on new adventures with her forever family.",
         "image": "https://cdn.britannica.com/87/236687-050-DD7F62CC/basset-hound-dog.jpg"
     }
 ]
