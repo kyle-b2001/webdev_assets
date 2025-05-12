@@ -1,22 +1,22 @@
 [
   {
     "title": "Web Assignment 3",
-    "dueDate": "2025-05-20",
+    "month": "May"
   },
   {
     "title": "Database Assignment 3",
-    "dueDate": "2025-04-13",
+    "month": "April"
   },
   {
     "title": "Web Assignment 2",
-    "dueDate": "2025-02-20",
+    "month": "February"
   },
   {
     "title": "Cloud Assignment 2",
-    "dueDate": "2025-01-12",
+    "month": "January"
   },
   {
-    "title": "AI Ethics Essay",
-    "dueDate": "2025-04-01",
+    "title": "AI Assignment 2",
+    "month": "March"
   }
 ]
