@@ -1,22 +1,27 @@
 [
   {
     "title": "Web Assignment 3",
-    "month": "May"
+    "month": "May",
+    "day": "17th"
   },
   {
     "title": "Database Assignment 3",
-    "month": "April"
+    "month": "April",
+    "day": "23rd"
   },
   {
     "title": "Web Assignment 2",
-    "month": "February"
+    "month": "February",
+    "day": "11th"
   },
   {
     "title": "Cloud Assignment 2",
-    "month": "January"
+    "month": "January",
+    "day": "4th"
   },
   {
     "title": "AI Assignment 2",
-    "month": "March"
+    "month": "March",
+    "day": "16th"
   }
 ]
